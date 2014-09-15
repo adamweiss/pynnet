@@ -1,7 +1,7 @@
 import pynnet
 
 """ Main
-Loop through training 50 times and print the results
+Loop through training 10 times and print the results
 """
 for i in range(10):
   print "******************** Run: ", i, "**************************"
